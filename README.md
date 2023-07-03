@@ -3,4 +3,4 @@ Chess Vision software designed to help increase fluency in chess notation. This 
 
 As of 06/28/2023 run ChessBoard.py to run the program
 
-As of 07/02/2023, ChessVision has an interface to select different squares and lets them know if they selected the right square or not, by highlighting the correct and incorrect squares
+As of 07/02/2023, ChessVision has an interface to select different squares and lets users know if they selected the right square or not by highlighting the correct and incorrect squares
